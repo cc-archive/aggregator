@@ -1,0 +1,7 @@
+* Flesh out triple store support
+* Add OPML handling
+* Extract configuration settings out of code, into properties file
+
+-----
+
+* De-coupled handlers
