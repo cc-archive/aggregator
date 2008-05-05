@@ -7,16 +7,11 @@ package org.creativecommons.learn.aggregate;
 
 import com.sun.syndication.io.FeedException;
 import java.io.IOException;
-import java.math.BigInteger;
 import java.util.Date;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import org.creativecommons.learn.oercloud.OerFeed;
 import java.util.List;
-import javax.persistence.EntityManager;
-import javax.persistence.Query;
-import org.creativecommons.learn.oercloud.Bookmark;
-import org.creativecommons.learn.oercloud.Tag;
 
 
 /**
