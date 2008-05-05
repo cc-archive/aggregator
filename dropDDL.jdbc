@@ -1,0 +1,6 @@
+DROP TABLE sc_tags
+DROP TABLE sc_watched
+DROP TABLE sc_users
+DROP TABLE sc_tagmaps
+DROP TABLE sc_bookmarks
+DROP TABLE oer_feeds

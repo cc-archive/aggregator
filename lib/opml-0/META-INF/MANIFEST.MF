@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.5.3 
+Created-By: Apache Maven
+Built-By: cooper
+Package: com.sun.syndication
+Build-Jdk: 1.5.0_06
+Extension-Name: opml
+Specification-Title: OPML Support For ROME
+Specification-Vendor: Sun Microsystems
+Implementation-Title: com.sun.syndication
+Implementation-Vendor: Sun Microsystems
+Implementation-Version: 0.1
+
